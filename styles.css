@@ -1,0 +1,62 @@
+
+             @font-face {
+                 font-family: 'danny';
+                 src: url('danny/halo-sonic.ttf');
+             }
+  
+             img{
+                 width:400px;
+                 height:300px;
+             }
+             html{
+                 font-family: 'Jo';
+                 background-color: #FF7700;
+             }
+             h1{
+                 font-family: 'Rosewood Std';
+                 font-size:100px;
+                 background-color: #FF0000;
+                 color:rgb(255, 0, 196);   
+             }
+             
+             .spaceing
+             {margin: 30px
+             }
+            h3{
+                  background-color: #ffff00 
+             }
+            h4{
+                     background-color: #00FF00 
+             }
+            h5{
+                     background-color: #0000ff 
+             }
+            h6{ 
+                     background-color: #8A2BE2 
+             }
+            h7{
+                     background-color: #C77DF3 
+             }
+             
+             h8{
+                 font-family: 'Bungee Shade', cursive;
+             }
+             .katz{
+                 color:#c800e2
+             }
+
+            .catz{
+                font-family: 'danny'; 
+            }
+             .dipper{
+                 background-color:#8A2BE2
+             }
+             
+             .displayBlock{
+                 display: block;
+             }
+             
+		 h2{
+             color:blue;
+             }
+             
